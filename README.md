@@ -1,6 +1,3 @@
-# kisiler_uygulamasi
-
-A new Flutter project.
 
 ## Ana sayfa
 
