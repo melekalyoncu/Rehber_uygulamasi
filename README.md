@@ -2,15 +2,19 @@
 
 A new Flutter project.
 
-## Getting Started
+## Ana sayfa
 
-This project is a starting point for a Flutter application.
+![Ekran 1](/resimler/ana_ekran.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Arama sekmesi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Ekran 2](/resimler/arama.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Yeni Kayıt Ekleme
+
+![Ekran 3](/resimler/kayıt.png)
+
+## Guncelleme ekranı
+
+![Ekran 4](/resimler/guncel.png)
+
